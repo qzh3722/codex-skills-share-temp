@@ -1,6 +1,6 @@
 # Codex Skills Share Temp
 
-这是一个临时公开仓库，用来给学员分享 5 个讲师实战在用的 Codex Skill 的脱敏版。
+这是一个临时公开仓库，用来给学员分享讲师实战在用的 Codex Skill 的脱敏版。
 
 这些 Skill 已经移除个人账号、本机路径、Cookie、API Key、云盘目录和私有项目名称。仓库只保留可复用的工作流、配置入口和安全边界。
 
@@ -11,6 +11,7 @@
 - `chatgpt-image`：通过 ChatGPT 网页端生成图片。
 - `x-to-obsidian`：把 X/Twitter 链接整理成 Obsidian 笔记。
 - `media-to-obsidian`：把视频或音频转录、总结并保存到 Obsidian。
+- `pdf-typeset`：把结构化内容排版成 A4 PDF。
 
 ## 一键安装
 
