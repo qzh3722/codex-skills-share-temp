@@ -12,6 +12,7 @@
 - `x-to-obsidian`：把 X/Twitter 链接整理成 Obsidian 笔记。
 - `media-to-obsidian`：把视频或音频转录、总结并保存到 Obsidian。
 - `pdf-typeset`：把结构化内容排版成 A4 PDF。
+- `seedance-video`：通过 Seedance 2.0 API 生成视频，支持 dry-run 调试。
 
 ## 一键安装
 
@@ -70,6 +71,7 @@ $env:X_CT0="your_x_ct0"
 - `api-keys.json`
 - `.env`
 - `*.cookies.txt`
+- `config.json`
 - 任何包含邮箱、Token、Cookie、客户资料或本机绝对路径的文件
 
 这个仓库是课堂临时分享用，用完可以删除。
