@@ -2,6 +2,7 @@
 **/api-keys.json
 **/*.tokens.json
 **/*.cookies.txt
+**/config.json
 **/.env
 .env
 *.log
