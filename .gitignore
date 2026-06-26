@@ -1,0 +1,12 @@
+**/cookies.json
+**/api-keys.json
+**/*.tokens.json
+**/*.cookies.txt
+**/.env
+.env
+*.log
+*.tmp
+__pycache__/
+node_modules/
+
+!**/*.example
